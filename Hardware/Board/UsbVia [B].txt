@@ -13,3 +13,6 @@ PARTS
 
   o P USB A, horizontal                                                         DK:WM17118-ND
   - P1                                  USB input.
+
+  o TP                                                                          DK:J583-ND
+  - TP1-TP3
