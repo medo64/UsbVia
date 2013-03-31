@@ -15,4 +15,4 @@ PARTS
   - P1                                  USB input.
 
   o TP                                                                          DK:J583-ND
-  - TP1-TP3
+  - TP1-TP4
