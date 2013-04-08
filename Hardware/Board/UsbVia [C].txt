@@ -1,0 +1,18 @@
+= UsbVia =
+
+
+BOARD
+
+  o Board size: 45.00 x 25.00 mm (1.74 sqin)
+
+
+PARTS                              
+
+  o J USB A, horizontal                                                         DK:ED2990-ND        NE:46P5302
+  - J1                                  USB output.
+
+  o P USB A, horizontal                                                         DK:WM17118-ND       NE:01J8375
+  - P1                                  USB input.
+
+  o TP                                                                          DK:J583-ND          NE:81N1217
+  - TP1-TP4
