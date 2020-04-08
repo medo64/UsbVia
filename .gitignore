@@ -1,5 +1,3 @@
-syntax: glob
-
 Hardware/Datasheets/*
 Hardware/Releases/*
 Hardware/Research/*
